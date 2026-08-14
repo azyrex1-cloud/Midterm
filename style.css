@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: brown;
+}
+.navbar-brand:hover{
+    color: brown;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-right: 10px;
+    color: brown;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: brown;
+}
+.search{
+    height: 40px;
+    width: 80px;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid rgb(248, 26, 92);
+    margin: -35px;
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: rgb(248, 26, 92);
+    color: white;
+    font-weight: 700;
+}
